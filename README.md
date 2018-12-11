@@ -1,0 +1,2 @@
+# springboot-elasticsearch
+el版本依赖是个坑，API的依赖和服务端的依赖要对齐，5.x和6.x有较大的变化，主要的依赖还是elasticsearch和transport
